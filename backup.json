@@ -1,0 +1,228 @@
+{
+  "employees": [
+    {
+      "name": "Md Saker Ali",
+      "designation": "Development Department",
+      "email": "oxiosoft.saker@gmail.com",
+      "phone": "01787139673",
+      "joinDate": "2026-11-02",
+      "id": "local-86jkane7mvy8fcxn"
+    },
+    {
+      "name": "Alif Ahmed",
+      "designation": "Development Department",
+      "email": "oxio.alif@gmail.com",
+      "phone": "01580635496",
+      "joinDate": "2026-11-02",
+      "id": "local-ijygzr6jmvy8fcxx"
+    },
+    {
+      "name": "Tahashibur Rahman",
+      "designation": "Development Department",
+      "email": "tahashibur.rahman2@gmail.com",
+      "phone": "01615999469",
+      "joinDate": "2026-11-02",
+      "id": "local-kzuh3og7mvy8fcy8"
+    }
+  ],
+  "tasks": [
+    {
+      "employeeId": "local-kzuh3og7mvy8fcy8",
+      "domain": "www.ownwearbd.com",
+      "client": "Own Wear BD",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Need to update the CDN. Updated to latest version and CDN update successfully completed.",
+      "id": "local-97l148esmvy8fd31"
+    },
+    {
+      "employeeId": "local-kzuh3og7mvy8fcy8",
+      "domain": "www.dhamraicrafts.com",
+      "client": "Dhamraicrafts",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Client wanted to understand stock management. Stock management process explained to client successfully.",
+      "id": "local-kz78ndlsmvy8fd2o"
+    },
+    {
+      "employeeId": "local-kzuh3og7mvy8fcy8",
+      "domain": "www.mavirabd.com",
+      "client": "Mavira BD",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Client requested shipping charge modification. Shipping charge successfully changed.",
+      "id": "local-lzem3reymvy8fd2b"
+    },
+    {
+      "employeeId": "local-kzuh3og7mvy8fcy8",
+      "domain": "www.gorgeousfashionbd.com",
+      "client": "Gorgeous Fashion",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Pixel issue detected where conversion data was showing more orders than the original order count. Pixel tracking issue successfully fixed.",
+      "id": "local-1x05mkyxmvy8fd23"
+    },
+    {
+      "employeeId": "local-kzuh3og7mvy8fcy8",
+      "domain": "www.mihabcartel.com",
+      "client": "Mihab Cartel",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Discussed client queries regarding website category sections. Category creation process explained and product uploading process demonstrated successfully.",
+      "id": "local-axxsyt5smvy8fd20"
+    },
+    {
+      "employeeId": "local-kzuh3og7mvy8fcy8",
+      "domain": "www.priyoitem.com",
+      "client": "Priyo Item",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Discussed website template customization requirements. Website customization completed successfully. Pixel integration and courier setup are still pending.",
+      "id": "local-1iwip0bsmvy8fd1s"
+    },
+    {
+      "employeeId": "local-ijygzr6jmvy8fcxx",
+      "domain": "mehendiplanet.com",
+      "client": "Mehendi Planet",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Updated the website to the latest version. Conducted detailed discussions regarding newly introduced features, explained system functionalities and benefits, discussed system behavior and operational workflows, and provided guidance on system usage and feature improvements.",
+      "id": "local-rxwf7m5ymvy8fd1a"
+    },
+    {
+      "employeeId": "local-ijygzr6jmvy8fcxx",
+      "domain": "wholeselebazarbd.com",
+      "client": "Wholesale Bazar",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed full website updates. Checked Meta Pixel integration, investigated pixel tracking issues, and verified website tracking functionality.",
+      "id": "local-dym4ll4gmvy8fd0u"
+    },
+    {
+      "employeeId": "local-ijygzr6jmvy8fcxx",
+      "domain": "www.ownwearbd.com",
+      "client": "Own Wear BD",
+      "type": "other",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Updated and customized the website. Checked product variation issues and modified product page checkout functionality. Completed required website updates.",
+      "id": "local-okziefdxmvy8fd0m"
+    },
+    {
+      "employeeId": "local-ijygzr6jmvy8fcxx",
+      "domain": "bonojsomadhan.xyz",
+      "client": "Bioherbs",
+      "type": "other",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed full website updates. Added and configured a new website theme, implemented inline checkout functionality, and customized the website with the latest updates.",
+      "id": "local-2g9w6cesmvy8fd09"
+    },
+    {
+      "employeeId": "local-86jkane7mvy8fcxn",
+      "domain": "www.superstoreshopbd.com",
+      "client": "Super Store Shop BD",
+      "type": "handover",
+      "date": "2026-11-01",
+      "meetingDone": true,
+      "status": "completed",
+      "note": "New website setup completed. Customized website theme and color according to requirements. Pixel and courier setup not completed yet.",
+      "id": "local-nqh99v1tmvy8fd02"
+    },
+    {
+      "employeeId": "local-86jkane7mvy8fcxn",
+      "domain": "www.jiruallergy.com",
+      "client": "Jiru Allergy",
+      "type": "handover",
+      "date": "2026-11-01",
+      "meetingDone": true,
+      "status": "completed",
+      "note": "Completed new website setup and customized website theme and color. Pixel integration and courier setup are required and currently in progress.",
+      "id": "local-ohplynhimvy8fczq"
+    },
+    {
+      "employeeId": "local-86jkane7mvy8fcxn",
+      "domain": "www.solukeybd.com",
+      "client": "Solukey BD",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed label printing customization according to client requirements.",
+      "id": "local-u99hr2u6mvy8fczl"
+    },
+    {
+      "employeeId": "local-86jkane7mvy8fcxn",
+      "domain": "www.nutrifymart.com",
+      "client": "Nutrify Mart",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully updated website to the latest version 7.3.0.",
+      "id": "local-l34gg2romvy8fcz8"
+    },
+    {
+      "employeeId": "local-86jkane7mvy8fcxn",
+      "domain": "www.shokhershop.online",
+      "client": "Shokher Shop",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed label printing customization according to client requirements.",
+      "id": "local-0hqbim4gmvy8fcyp"
+    },
+    {
+      "employeeId": "local-86jkane7mvy8fcxn",
+      "domain": "www.sayanmart.online",
+      "client": "Sayan Mart",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully updated website to the latest version 7.3.0 and completed label printing customization.",
+      "id": "local-e70dqsclmvy8fcye"
+    }
+  ],
+  "settings": {
+    "sheetUrl": "https://docs.google.com/spreadsheets/d/1RRKRTsv4HVSjhsBGiy8lPr9K1l0RtgRuzjuvCak24Eo/edit?gid=0#gid=0",
+    "sheetId": "1RRKRTsv4HVSjhsBGiy8lPr9K1l0RtgRuzjuvCak24Eo",
+    "taskSheetName": "Tasks",
+    "employeeSheetName": "Employees",
+    "webAppUrl": "https://script.google.com/macros/s/AKfycbxtB8BvHTlEwxopio74gn62R9ekJeGDbCilTmf4j9TJyVNoxh2V_wge6QEHPDN-cfFH/exec",
+    "autoSync": true,
+    "syncMode": "realtime",
+    "companyName": "DevTrack CRM",
+    "defaultTaskStatus": "completed",
+    "dateFormat": "bn",
+    "connected": true,
+    "lastSyncAt": "2026-11-01T19:37:55.535Z",
+    "githubEnabled": true,
+    "githubToken": "",
+    "githubRepo": "muhammadshamimulislam-code.github.io/devtrack-crm",
+    "githubBranch": "main",
+    "githubPath": "data/backup.json",
+    "lastGithubSyncAt": "2026-11-01T19:37:48.867Z"
+  },
+  "exportDate": "2026-11-01T19:43:08.788Z",
+  "version": "2.0"
+}
