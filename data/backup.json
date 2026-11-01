@@ -1,5 +1,8 @@
 {
-  "test": true,
-  "timestamp": "2026-11-01T22:49:41.620Z",
-  "message": "Token test successful"
+  "employees": [],
+  "tasks": [],
+  "exportDate": "2026-11-01T23:00:37.105Z",
+  "version": "3.0-final-secure",
+  "totalEmployees": 0,
+  "totalTasks": 0
 }
