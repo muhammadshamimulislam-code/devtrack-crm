@@ -357,6 +357,16 @@
       "id": "local-rfih2xrymvzgmuxz"
     }
   ],
-  "exportDate": "2026-11-02T16:32:10.686Z",
-  "version": "2.0-pure"
+  "settings": {
+    "sheetUrl": "https://docs.google.com/spreadsheets/d/1RRKRTsv4HVSjhsBGiy8lPr9K1l0RtgRuzjuvCak24Eo/edit?gid=1744481845#gid=1744481845",
+    "webAppUrl": "https://script.google.com/macros/s/AKfycbya_Huq4Ocmqdq0klPhaSwLPLyR162k0_O5lASGu2lJ5SfqH2KhjLUPZB3f_BQBg2nV/exec",
+    "taskSheetName": "Tasks",
+    "employeeSheetName": "Employees",
+    "githubRepo": "muhammadshamimulislam-code/devtrack-crm",
+    "githubBranch": "main",
+    "githubPath": "data/backup.json",
+    "companyName": "DevTrack CRM"
+  },
+  "exportDate": "2026-11-02T16:33:12.431Z",
+  "version": "2.0-github-fixed"
 }
