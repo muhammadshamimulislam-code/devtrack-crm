@@ -23,9 +23,440 @@
       "phone": "01615999469",
       "joinDate": "2026-11-02",
       "id": "local-qycyouxrmw1suy00"
+    },
+    {
+      "name": "Md Saker Ali",
+      "designation": "Development Department",
+      "email": "oxiosoft.saker@gmail.com",
+      "phone": "01787139673",
+      "joinDate": "2026-11-02",
+      "id": "local-oq3iri52mw1uqhqb"
+    },
+    {
+      "name": "Alif Ahmed",
+      "designation": "Development Department",
+      "email": "oxio.alif@gmail.com",
+      "phone": "01580635496",
+      "joinDate": "2026-11-02",
+      "id": "local-isbwpr0pmw1uqhqh"
+    },
+    {
+      "name": "Tahashibur Rahman",
+      "designation": "Development Department",
+      "email": "tahashibur.rahman2@gmail.com",
+      "phone": "01615999469",
+      "joinDate": "2026-11-02",
+      "id": "local-2mwc7zdvmw1uqhqw"
     }
   ],
   "tasks": [
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.sayanmart.online",
+      "client": "Sayan Mart",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully updated website to the latest version 7.3.0 and completed label printing customization.",
+      "id": "local-lo7i49qhmw1uqi5h"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.shokhershop.online",
+      "client": "Shokher Shop",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed label printing customization according to client requirements.",
+      "id": "local-ijzlxitwmw1uqi53"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.nutrifymart.com",
+      "client": "Nutrify Mart",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully updated website to the latest version 7.3.0.",
+      "id": "local-7xejn7kamw1uqi4r"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.solukeybd.com",
+      "client": "Solukey BD",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed label printing customization according to client requirements.",
+      "id": "local-9vs4k6pwmw1uqi4i"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.jiruallergy.com",
+      "client": "Jiru Allergy",
+      "type": "handover",
+      "date": "2026-11-01",
+      "meetingDone": true,
+      "status": "completed",
+      "note": "Completed new website setup and customized website theme and color. Pixel integration and courier setup are required and currently in progress.",
+      "id": "local-3eafjiyqmw1uqi45"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.superstoreshopbd.com",
+      "client": "Super Store Shop BD",
+      "type": "handover",
+      "date": "2026-11-01",
+      "meetingDone": true,
+      "status": "completed",
+      "note": "New website setup completed. Customized website theme and color according to requirements. Pixel and courier setup not completed yet.",
+      "id": "local-egh14gc8mw1uqi3r"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "bonojsomadhan.xyz",
+      "client": "Bioherbs",
+      "type": "other",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed full website updates. Added and configured a new website theme, implemented inline checkout functionality, and customized the website with the latest updates.",
+      "id": "local-buijyftcmw1uqi3d"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "www.ownwearbd.com",
+      "client": "Own Wear BD",
+      "type": "other",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Updated and customized the website. Checked product variation issues and modified product page checkout functionality. Completed required website updates.",
+      "id": "local-er0p1cebmw1uqi34"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "wholeselebazarbd.com",
+      "client": "Wholesale Bazar",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed full website updates. Checked Meta Pixel integration, investigated pixel tracking issues, and verified website tracking functionality.",
+      "id": "local-ztjk7cqvmw1uqi2o"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "mehendiplanet.com",
+      "client": "Mehendi Planet",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Updated the website to the latest version. Conducted detailed discussions regarding newly introduced features, explained system functionalities and benefits, discussed system behavior and operational workflows, and provided guidance on system usage and feature improvements.",
+      "id": "local-5hilxu6cmw1uqi28"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.priyoitem.com",
+      "client": "Priyo Item",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Discussed website template customization requirements. Website customization completed successfully. Pixel integration and courier setup are still pending.",
+      "id": "local-jdy2zn3smw1uqi1s"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.mihabcartel.com",
+      "client": "Mihab Cartel",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Discussed client queries regarding website category sections. Category creation process explained and product uploading process demonstrated successfully.",
+      "id": "local-pxobh6q7mw1uqi1l"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.gorgeousfashionbd.com",
+      "client": "Gorgeous Fashion",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Pixel issue detected where conversion data was showing more orders than the original order count. Pixel tracking issue successfully fixed.",
+      "id": "local-o2wf4d01mw1uqi1d"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.mavirabd.com",
+      "client": "Mavira BD",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Client requested shipping charge modification. Shipping charge successfully changed.",
+      "id": "local-ty2lf53gmw1uqi0i"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.dhamraicrafts.com",
+      "client": "Dhamraicrafts",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Client wanted to understand stock management. Stock management process explained to client successfully.",
+      "id": "local-2onxqi6qmw1uqi08"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.ownwearbd.com",
+      "client": "Own Wear BD",
+      "type": "support",
+      "date": "2026-11-01",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Need to update the CDN. Updated to latest version and CDN update successfully completed.",
+      "id": "local-v8i54tu3mw1uqhzu"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.freshvaly.com",
+      "client": "Freshvaly",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "pending",
+      "note": "Completed new website setup and customized website theme and colors. Meta Pixel and courier setup are not completed yet. Project currently on hold.",
+      "id": "local-8o1v62jamw1uqhz1"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.gorgeousfashionbd.com",
+      "client": "Gorgeous Fashion BD",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully updated website to the latest version 7.3.0 and completed website loading speed checks.",
+      "id": "local-ik0gey3umw1uqhxv"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.poshfiit.com",
+      "client": "Poshfiit",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully assigned and configured Meta Pixel with the client's advertising account.",
+      "id": "local-e4ptgs84mw1uqhxb"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.seraproductservice.com",
+      "client": "Sera Product Service",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully assigned and configured Meta Pixel with the client's advertising account.",
+      "id": "local-mmn07xwamw1uqhwt"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.sarahbridals.com",
+      "client": "Sarah Bridals",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Investigated and successfully resolved label printing issues.",
+      "id": "local-7zu7z8sdmw1uqhwc"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.bithikabd.shop",
+      "client": "Bithika BD",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Identified and successfully fixed courier entry issues in the website system.",
+      "id": "local-zqsx2yjlmw1uqhvt"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "bonojsomadhan.xyz",
+      "client": "Bonojsomadhan",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Investigated and resolved landing page image display issues. Fixed image rendering problems and verified that all images are displaying properly.",
+      "id": "local-041sdqnrmw1uqhvc"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "www.bazarixbd.com",
+      "client": "Bazarix BD",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Checked Meta Pixel integration and tracking issues. Investigated order-related problems and reviewed order processing functionality.",
+      "id": "local-6ofn76gmmw1uqhuy"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "www.goodhealth.xyz",
+      "client": "Goodhealth",
+      "type": "handover",
+      "date": "2026-11-03",
+      "meetingDone": true,
+      "status": "completed",
+      "note": "Completed new website setup and customization. Integrated courier service, configured Meta Pixel, and created and customized the landing page.",
+      "id": "local-peuhocxqmw1uqhup"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "dhakaexclusive.org",
+      "client": "Dhaka Exclusive",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Updated website to the latest version. Checked and verified API token and reviewed API token connectivity and functionality.",
+      "id": "local-u76bcte9mw1uqhub"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "alaminhalalshop.com",
+      "client": "Alamin Halal Shop",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Checked and reviewed website orders. Performed a full website review and verified overall website functionality and key sections.",
+      "id": "local-fl5olm32mw1uqhty"
+    },
+    {
+      "employeeId": "local-isbwpr0pmw1uqhqh",
+      "domain": "chinacarebd.com",
+      "client": "China Care",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Completed Tukitaki website customization. Updated business information and related page details. Connected website with Ad Account and Business Manager (BM), and successfully integrated Meta Pixel.",
+      "id": "local-d8petie6mw1uqhtq"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "Febrisoft.com",
+      "client": "Febrisoft",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Updated website to the latest version. Created custom code for Size Chart functionality, created and customized Terms & Conditions page, and provided necessary instructions and guidance.",
+      "id": "local-xogumfk1mw1uqhtg"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.rtzfashionshouse.com",
+      "client": "RTZ Fashions House",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Successfully configured TikTok Pixel and completed live chat setup on the website.",
+      "id": "local-zrnn1llrmw1uqht8"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.solukeybd.com",
+      "client": "Solukey BD",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Updated and changed the WhatsApp contact number on the website successfully.",
+      "id": "local-hi27qck0mw1uqhsz"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.needymind.com",
+      "client": "NeedyMind",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Customized the website theme and updated the Buy Now button style according to requirements.",
+      "id": "local-bimjb1gqmw1uqhsr"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.techbd4u.com",
+      "client": "Techbd4u",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Resolved website image uploading issues. Explained employee and role creation procedures to the client.",
+      "id": "local-pwq88tm0mw1uqhsj"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.goodiebd.com",
+      "client": "Goodie BD",
+      "type": "support",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Created product categories, resized product images, and successfully uploaded images to the website.",
+      "id": "local-w7vh7rwhmw1uqhs7"
+    },
+    {
+      "employeeId": "local-2mwc7zdvmw1uqhqw",
+      "domain": "www.Imransurgical.com",
+      "client": "Imran Surgical",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Configured OxioChat on the website and updated the website banner successfully.",
+      "id": "local-0frut3r7mw1uqhrw"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.naturexpower.com",
+      "client": "Naturexpower",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Customized the landing page, updated website content, and created product variations according to requirements.",
+      "id": "local-t6d2xj3bmw1uqhrk"
+    },
+    {
+      "employeeId": "local-oq3iri52mw1uqhqb",
+      "domain": "www.bonojsomadhan.xyz",
+      "client": "bonojsomadhan",
+      "type": "other",
+      "date": "2026-11-03",
+      "meetingDone": false,
+      "status": "completed",
+      "note": "Customized the landing page and completed minor text changes according to requirements.",
+      "id": "local-crldac4amw1uqhr4"
+    },
     {
       "employeeId": "local-s6r6gr2xmw1suxzs",
       "domain": "www.bonojsomadhan.xyz",
@@ -434,6 +865,6 @@
       "id": "local-k1xpcyrumw1suy03"
     }
   ],
-  "exportDate": "2026-11-04T08:21:54.539Z",
+  "exportDate": "2026-11-04T08:27:10.872Z",
   "version": "2.0-pure"
 }
